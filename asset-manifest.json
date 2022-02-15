@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shivambhushan.github.io/csb-i1lmx/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://shivambhushan.github.io/csb-i1lmx/static/js/main.cf8195f8.chunk.js",
+    "main.js.map": "https://shivambhushan.github.io/csb-i1lmx/static/js/main.cf8195f8.chunk.js.map",
+    "runtime-main.js": "https://shivambhushan.github.io/csb-i1lmx/static/js/runtime-main.64ecc44f.js",
+    "runtime-main.js.map": "https://shivambhushan.github.io/csb-i1lmx/static/js/runtime-main.64ecc44f.js.map",
+    "static/js/2.cf035540.chunk.js": "https://shivambhushan.github.io/csb-i1lmx/static/js/2.cf035540.chunk.js",
+    "static/js/2.cf035540.chunk.js.map": "https://shivambhushan.github.io/csb-i1lmx/static/js/2.cf035540.chunk.js.map",
+    "index.html": "https://shivambhushan.github.io/csb-i1lmx/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://shivambhushan.github.io/csb-i1lmx/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.cf035540.chunk.js.LICENSE.txt": "https://shivambhushan.github.io/csb-i1lmx/static/js/2.cf035540.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64ecc44f.js",
+    "static/js/2.cf035540.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.cf8195f8.chunk.js"
+  ]
+}
